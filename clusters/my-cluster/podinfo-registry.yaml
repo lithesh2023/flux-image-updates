@@ -2,7 +2,7 @@
 apiVersion: image.toolkit.fluxcd.io/v1beta2
 kind: ImageRepository
 metadata:
-  name: podinfo
+  name: car-parking-ui
   namespace: flux-system
 spec:
   image: litheshp/car-parking-booking-app-react
