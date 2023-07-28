@@ -5,5 +5,5 @@ metadata:
   name: car-parking-ui
   namespace: flux-system
 spec:
-  image: litheshp/car-parking-booking-app-react
+  image: litheshp/car-parking-booking-app-react:latest
   interval: 5m0s
