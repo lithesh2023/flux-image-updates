@@ -8,5 +8,5 @@ spec:
   imageRepositoryRef:
     name: car-parking-ui
   policy:
-    alphabetical:
-      order: asc
+    semver:
+      range: 5.0.x
