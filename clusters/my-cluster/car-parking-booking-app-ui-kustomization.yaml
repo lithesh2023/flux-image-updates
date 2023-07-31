@@ -13,5 +13,5 @@ spec:
     kind: GitRepository
     name: car-parking-booking-app-ui
   targetNamespace: default
-  timeout: 3m0s
+  timeout: 2m0s
   wait: true
